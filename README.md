@@ -16,6 +16,7 @@ aspects to include:
 - license / accessrights
 - logo
 - services: ldesfeed, oai-pmh, REST-api, swagger,  ....
+- [FAIR signposting](https://signposting.org/FAIR/)
 - ...
 
 --> start from EPOS (disadv: based on old DCAT) - use [SEMICeu/DCAT-AP](https://github.com/SEMICeu/DCAT-AP)
